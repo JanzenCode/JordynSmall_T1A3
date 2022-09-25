@@ -23,4 +23,11 @@ Description: variables are elements within python that are assigned values. Ther
 ### 4. CONDITIONAL CONTROL STRUCTURES 
 Description: Condiitional Control Structures are Python Elements such as For/While Loops and If, Elif or Else Statements. They are used to execute statements based on conditions. In this application we use both Sequential and Repition Based Structures to execute the future value eqution within the python code. The eqution requires inputs that are gained through the command line interface(terminal) and are placed into variables used in replacement to mathematical expressions done on paper however similar. Examples within the Appplication include the If and Elif Statements that instigate the operation of the calculator. These statements allow the user to either begin the input process or exit the application. 
 
+## Quality Tests
+### 1. Compound Interest Before Future Value
+- The code was run with a debugging print function to ensure that the output results would produce the correct mathematical answers in regards to the investment potential before monthly contributions are added
+### 2. Future Valued Added
+- 
+
+
 
