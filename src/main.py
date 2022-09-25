@@ -1,4 +1,4 @@
-import help 
+import src.help as help 
 
 #Investment Calculator for Individuals Making Inital and Monthly Contributions:
 # CollectUsersName/Deposit/RegularAmounts/Time/Frequency/TotalYears/ExpectedReturn

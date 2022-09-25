@@ -1,1 +1,0 @@
-def investment_calculator()

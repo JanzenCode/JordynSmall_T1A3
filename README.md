@@ -11,14 +11,14 @@ This allows the user to gain a quick understanding about the process and the flo
 Description: The application requires the users financial information to calculate the potential long term investment after a desired number of years.
 The inputs include: inital deposits, regular depoits, expected annual return (%), number of years ivnested, deposit frequency. 
 - For example, 
-- this is the expected return with the 10,000; 100; 8%; 50; 4 (respective of the inputs ordered above)
+- This is the expected return with the 10,000; 100; 8%; 50; 4 (respective of the inputs ordered above)
 - Jordyn, This is the potential return on your investment based on your inital deposit and monthly contributions: 1331954.5794663988;
 - Investment after 30 years: 687817.7766528932;
 - Investment after 50 years: 1331954.5794663988;
 - Investment after 70 years: 4505489.564348481
 ### 3. VARIABLES 
-Description:
+Description: variables are elements within python that are assigned values. Therefore, within the application the variables defined are assigned use to use depending on the users inputted data. For example, in the first attempt - if the user were to input an intital deposit of $100,000 then "inital_deposit" would be assigned the 100000. However, in the second attempt - if the user were to input an intial deposit of $10,000 then "inital_deposit" would be assigned the 10000. This applies to all variables exluding those with the term "set" in the variable name. 
 ### 4. CONDITIONAL CONTROL STRUCTURES 
-Description:
+Description: Condiitional Control Structures are Python Elements such as For/While Loops and If, Elif or Else Statements. They are used to execute statements based on conditions. In this application we use both Sequential and Repition Based Structures to execute the future value eqution within the python code. The eqution requires inputs that are gained through the command line interface(terminal) and are placed into variables used in replacement to mathematical expressions done on paper however similar. Examples within the Appplication include the If and Elif Statements that instigate the operation of the calculator. These statements allow the user to either begin the input process or exit the application. 
 
 
