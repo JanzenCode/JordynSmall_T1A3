@@ -29,5 +29,10 @@ Description: Condiitional Control Structures are Python Elements such as For/Whi
 ### 2. Future Valued Added
 - 
 
+## Project Management Screenshots
+![alt](https://github.com/JanzenCode/JordynSmall_T1A3/blob/main/imgs/Project%20Management%20Screenshots.png)
+![alt](https://github.com/JanzenCode/JordynSmall_T1A3/blob/main/imgs/Screen%20Shot%202022-09-25%20at%2011.51.04%20pm.png)
+
+
 
 
