@@ -71,6 +71,8 @@ while begin:
             totalinvestmentover = BeforeFutureValue + futureanddeposits
             print(f"Investment after {years} years: {totalinvestmentover} \n")
         
+        # Debugged Information 
+        
         completion = True
 
     else: 
