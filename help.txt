@@ -19,6 +19,9 @@ Software: Windows, Mac or Linux, not compatible on Mobile OS
 - Python3.8.X and above 
 Download link for Python: 
 https://www.python.org/downloads/
+GITHUB:
+https://github.com/JanzenCode/JordynSmall_T1A3
+
 
 
 
