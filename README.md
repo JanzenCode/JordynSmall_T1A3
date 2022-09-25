@@ -27,7 +27,7 @@ Description: Condiitional Control Structures are Python Elements such as For/Whi
 ### 1. Compound Interest Before Future Value
 - The code was run with a debugging print function to ensure that the output results would produce the correct mathematical answers in regards to the investment potential before monthly contributions are added
 ### 2. Future Valued Added
-- 
+-  Future Value Debugging recreated issues when trying to provide the additonal month contributions however it allowed me to identify where it went wrong. In additon, the added elements of the comparison years were condensed into a For loop to create DRYER code with the same output as previous. 
 
 ## Project Management Screenshots
 ![alt](https://github.com/JanzenCode/JordynSmall_T1A3/blob/main/docs/Project%20Management%20Screenshots.png)
