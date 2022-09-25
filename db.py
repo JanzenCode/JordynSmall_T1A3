@@ -1,0 +1,1 @@
+def investment_calculator()
