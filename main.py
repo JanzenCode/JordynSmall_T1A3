@@ -21,7 +21,6 @@ elif Start == "y":
     set_years_1 = int(30)
     set_years_2 = int(50)
     set_years_3 = int(70)
-    years_list = [1,2,3]
 
     # print(inital_deposit * 1 + (annual_return/compound_frequency) ** num_of_years)
 
