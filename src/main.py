@@ -20,9 +20,6 @@ while begin:
         compound_frequency = print(f"{InvestorName}, your investment will compound monthly.")
         num_of_years = input(f"{InvestorName}, please enter the desired amount of years you'd like to invest for: ")
         annual_return = input(f"{InvestorName}, please enter the desired return per year you expect; for example, 5 8 or 11: ")
-        set_years_1 = int(30)
-        set_years_2 = int(50)
-        set_years_3 = int(70)
         setyears = [30, 50, 70]
 
         # print(inital_deposit * 1 + (annual_return/compound_frequency) ** num_of_years)
