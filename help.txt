@@ -1,0 +1,28 @@
+Welcome to Jordyn's Long Term Investment Calculator: 
+
+-- Steps to Install The Application -- 
+
+1. Extract ZIP folder into windows/mac/linux OS file system 
+2. Open Terminal or Ubuntu or Relative Command Shell 
+3. Run "python3 main.py" to initalise the application 
+4. Application will display instructions/prompts for the user
+
+-- System Dependencies -- 
+
+The application only requires the user to have functioning hardware and software described in the System Requirements Section below: 
+
+-- System Requirements -- 
+
+Hardware: Any Windows, Mac or Linux Computer that can support basic terminal operations
+- 2015 and newer is preferred for optimum performance
+Software: Windows, Mac or Linux, not compatible on Mobile OS
+- Python3.8.X and above 
+Download link for Python: 
+https://www.python.org/downloads/
+
+
+
+
+
+
+

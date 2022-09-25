@@ -4,8 +4,13 @@ import help
 # CollectUsersName/Deposit/RegularAmounts/Time/Frequency/TotalYears/ExpectedReturn
 
 InvestorName = input("Welcome to the Long-Term Investment Calculator, please enter your name: ") 
-input(f"Hello {InvestorName}, would you like to calculate your investment potential? (y/n) ")
-if "y":
+Start = input(f"Hello {InvestorName}, would you like to calculate your investment potential? (y/n): ")
+
+if Start == "n": 
+    print("You can try again anytime.")
+    exit()
+
+elif Start == "y":
 
     inital_deposit = input(f"{InvestorName}, please enter your inital deposit as a whole number such as 10000: ")
     regular_deposit = input(f"{InvestorName}, please enter your regular deposit as a whole number such as 100: ")
@@ -16,6 +21,7 @@ if "y":
     set_years_1 = int(30)
     set_years_2 = int(50)
     set_years_3 = int(70)
+    years_list = [1,2,3]
 
     # print(inital_deposit * 1 + (annual_return/compound_frequency) ** num_of_years)
 
@@ -48,10 +54,12 @@ if "y":
     # print(futureanddeposits) # Debugging Tool 
 
     totalinvestmentovertime = BeforeFutureValue + futureanddeposits
+    print("--------------------------------------------------------------------------------------------------------------------------------------------------")
     print(f"{InvestorName}, This is the potential return on your investment based on your inital deposit and monthly contributions: {totalinvestmentovertime}")
     print("--------------------------------------------------------------------------------------------------------------------------------------------------")
     
     # Investment Information + Set Number of Years & Rates
+
 
     step1 = (1+(annual_return/compound_frequency))
     powernumber2 = (compound_frequency * set_years_1)
@@ -62,7 +70,7 @@ if "y":
     # print(futureanddeposits) # Debugging Tool 
 
     totalinvestmentover30 = BeforeFutureValue + futureanddeposits
-    
+
     print(f"Investment after 30 years: {totalinvestmentover30}")
 
 # ------------------------------------------------------------------------------------------------
