@@ -18,6 +18,7 @@ The inputs include: inital deposits, regular depoits, expected annual return (%)
 - Investment after 30 years: 687817.7766528932;
 - Investment after 50 years: 1331954.5794663988;
 - Investment after 70 years: 4505489.564348481
+- ***The Application also exports a graph that displays visually the investment growth over time
 ### 3. VARIABLES 
 Description: variables are elements within python that are assigned values. Therefore, within the application the variables defined are assigned use to use depending on the users inputted data. For example, in the first attempt - if the user were to input an intital deposit of $100,000 then "inital_deposit" would be assigned the 100000. However, in the second attempt - if the user were to input an intial deposit of $10,000 then "inital_deposit" would be assigned the 10000. This applies to all variables exluding those with the term "set" in the variable name. 
 ### 4. CONDITIONAL CONTROL STRUCTURES 

@@ -10,6 +10,12 @@ Welcome to Jordyn's Long Term Investment Calculator:
 -- System Dependencies -- 
 
 The application only requires the user to have functioning hardware and software described in the System Requirements Section below: 
+Updated Dependencies included:
+PIP3 - Installed Packages/Included Python3 Modules/Packages:
++ DateTime
++ Numpy
++ Matlibplot
++ Calendar/Month
 
 -- System Requirements -- 
 
