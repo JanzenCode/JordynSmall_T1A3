@@ -30,9 +30,10 @@ Description: Condiitional Control Structures are Python Elements such as For/Whi
 ### 2. Future Valued Added
 -  Future Value Debugging recreated issues when trying to provide the additonal month contributions however it allowed me to identify where it went wrong. In additon, the added elements of the comparison years were condensed into a For loop to create DRYER code with the same output as previous. 
 
-## Project Management Screenshots
+## Project Management Screenshots/Link
 ![alt](https://github.com/JanzenCode/JordynSmall_T1A3/blob/main/docs/Project%20Management%20Screenshots.png)
 ![alt](https://github.com/JanzenCode/JordynSmall_T1A3/blob/main/docs/Screen%20Shot%202022-09-25%20at%2011.51.04%20pm.png)
+[Trello](https://trello.com/invite/b/cDbqzmX6/983c41f10a07d145b5d9faf65de14391/t1a3-project-management)
 
 
 
